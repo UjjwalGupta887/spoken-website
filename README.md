@@ -1,11 +1,11 @@
 Spoken-Website
 ==============
 
-Spoken tutorial website in django (http://spoken-tutorial.org)
+Spoken tutorials website in django (http://spoken-tutorial.org) .
 
 
 ```
-pip install -r requirements-dev.txt
+pip install -r requirements-dev.txt 
 ```
 
-Create config.py in `spoken/` folder.
+# Create config.py in `spoken/` folder.
